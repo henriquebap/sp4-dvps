@@ -88,7 +88,7 @@ A API foi implementada utilizando uma arquitetura monolítica. Esta escolha foi 
 
 ## Integrantes 
 RM98469  - Pedro Duarte Farias 
-RM552489 - FELIPE DE ALMEIDA CARDOSO 
+RM98413 - Mateus Castro
 RM551322 - Gabriel Caverzan 
 RM551582 - Leonardo Valencio Dourado 
 RM97796  - Henrique Oliveira Baptista
